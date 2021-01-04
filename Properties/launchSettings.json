@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SaveAndPrintProject": {
+      "commandName": "Project",
+      "commandLineArgs": "save 2 http://static.ozone.ru/multimedia/yml/facet/div_soft.xml"
+    }
+  }
+}
